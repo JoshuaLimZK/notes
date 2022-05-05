@@ -7,3 +7,10 @@
 
 # [[2.3 Problem-Solving Techniques]]
 ![[2.3 Problem-Solving Techniques]]
+
+
+#computing 
+
+#computing 
+
+#computing 

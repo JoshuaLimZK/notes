@@ -6,3 +6,5 @@
 ![[3.3 Trace Tables]]
 # [[3.4 Pseudo-Code]]
 ![[3.4 Pseudo-Code]]
+
+#computing 

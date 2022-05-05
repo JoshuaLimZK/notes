@@ -1,0 +1,6 @@
+# SBQ
+- [[Inference]]
+- [[]]
+# SRQ
+
+#socialstudies 

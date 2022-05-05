@@ -3,3 +3,4 @@
 ## [[Physics]]
 ## [[Chemistry]]
 ## [[History]]
+## [[Social Studies]]
