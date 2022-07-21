@@ -6,5 +6,7 @@
 [[Chapter 6|Chapter 6 History]]
 [[Chapter 7|Chapter 7 History]]
 
+[[Cold War Quick Notes]]
+
 [[Zhe Lei Lesson]]
 #history 
